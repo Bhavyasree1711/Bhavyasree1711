@@ -1,7 +1,24 @@
 <h1 align="center">Hi 👋, I'm S.Bhavyasree</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack development**
+🚀 Aspiring Full-Stack & AI Developer | 🎓 Final Year CSE Student
+
+🔹 Passionate about building scalable web applications and diving into AI innovations.
+
+🔹 Currently participating in the Google Girl Hackathon.
+
+🔹 Love solving coding challenges and technical quizzes—secured 2nd prize in a technical quiz!
+
+🔹 Explored science & engineering projects through Anveshna by Agastya Foundation.
+
+🔹 Seeking an entry-level role as a Full-Stack Developer and AI Developer.
+
+
+💡 Tech Stack: JavaScript, React, Node.js, Python, Django, AI/ML
+
+📚 Education: Final Year B.Tech in CSE (CGPA: 8.4) @ Kuppam Engineering College
+
+💻 Projects & Contributions: Always eager to collaborate on exciting projects!
 
 - 📫 How to reach me **bhavyasreebhavi3638@gmail.com**
 
