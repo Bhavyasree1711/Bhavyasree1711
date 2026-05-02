@@ -16,7 +16,7 @@
 
 💡 Tech Stack: JavaScript, React, Node.js, Python, Django, AI/ML
 
-📚 Education: Final Year B.Tech in CSE (CGPA: 8.4) @ Kuppam Engineering College
+📚 Education: Final Year B.Tech in CSE (CGPA: 8.5) @ Kuppam Engineering College
 
 💻 Projects & Contributions: Always eager to collaborate on exciting projects!
 
