@@ -14,7 +14,7 @@
 🔹 Seeking an entry-level role as a Full-Stack Developer and AI Developer.
 
 
-💡 Tech Stack: JavaScript, React, Node.js, Python, Django, AI/ML
+💡 Tech Stack: JavaScript, React, Node.js, Python, AI/ML
 
 📚 Education: Final Year B.Tech in CSE (CGPA: 8.5) @ Kuppam Engineering College
 
